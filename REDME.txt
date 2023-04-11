@@ -1,0 +1,47 @@
+The Castle Hotel 
+
+one of the learning projects 
+
+about hotel in the castle
+
+
+Fonts 
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lora&family=Open+Sans:wght@300;400;500;700&display=swap" rel="stylesheet">
+
+font-family: 'Lora', serif;
+font-family: 'Open Sans', sans-serif;
+
+
+Icons
+mail
+<i class="bi bi-envelope-fill"></i>
+ig
+<i class="bi bi-instagram"></i>
+phone
+<i class="bi bi-telephone-fill"></i>
+
+Colors 
+
+/* Color Theme Swatches in Hex */
+.The-Castle-Hotel-1-hex { color: #7E7880; }
+.The-Castle-Hotel-2-hex { color: #E8A3FF; }
+.The-Castle-Hotel-3-hex { color: #FBEFFF; }
+.The-Castle-Hotel-4-hex { color: #745280; }
+.The-Castle-Hotel-5-hex { color: #C9C0CC; }
+
+/* Color Theme Swatches in RGBA */
+.The-Castle-Hotel-1-rgba { color: rgba(126, 120, 128, 1); }
+.The-Castle-Hotel-2-rgba { color: rgba(232, 163, 255, 1); }
+.The-Castle-Hotel-3-rgba { color: rgba(251, 239, 255, 1); }
+.The-Castle-Hotel-4-rgba { color: rgba(116, 82, 128, 1); }
+.The-Castle-Hotel-5-rgba { color: rgba(201, 192, 204, 1); }
+
+/* Color Theme Swatches in HSLA */
+.The-Castle-Hotel-1-hsla { color: hsla(285, 3, 48, 1); }
+.The-Castle-Hotel-2-hsla { color: hsla(285, 100, 81, 1); }
+.The-Castle-Hotel-3-hsla { color: hsla(284, 100, 96, 1); }
+.The-Castle-Hotel-4-hsla { color: hsla(284, 21, 41, 1); }
+.The-Castle-Hotel-5-hsla { color: hsla(284, 10, 77, 1); }

@@ -1,0 +1,123 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.4/font/bootstrap-icons.css");
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* shadows */
+
+.shadow-text {
+    text-shadow: 4px 4px 5px rgba(0, 0, 0, 1),15px 9px 8px rgba(0, 0, 0, 1);
+    
+    /* text-shadow: #000;
+    text-shadow: 2px 3px 3px rgba(0, 0, 0, 0.8); */
+}
+
+/* containers */
+
+.container-fluid {
+    padding: 7% 10%;
+}
+
+/* header section  */
+
+#header {
+    background-image: url("../images/castle.jpg");
+    background-size: cover;
+    background-position: right;
+    margin: 0;
+}
+
+.header-box {
+    padding: 8% 0;
+    color: #fff;
+    display: flex;
+    justify-content: end;
+}
+
+.header-hotelname {
+    font-family: 'Lora', serif;
+    font-size: 100px;
+}
+
+.header-icon {
+    font-size: 200px;
+}
+
+
+
+/* atraction section  */
+
+#atractions {
+    background-color: #FBEFFF;
+}
+
+#atractions img {
+    width: 100%;
+}
+
+h2 {
+    font-weight: bold;
+    color: #745280;
+    margin-top: 10px;
+}
+
+p {
+    color: #7E7880;
+}
+
+/* call to action section  */
+
+#cta {
+    background-color: #745280;
+    color: #fff;
+}
+
+#cta h1 {
+    font-family: 'Lora', serif;
+    font-size: 5rem;
+    margin-bottom: 3%;
+}
+
+#cta i {
+    font-size: 5rem;
+}
+#cta i:hover {
+    color: #E8A3FF;
+}
+
+#cta p {
+    font-size: 1rem;
+    color: #C9C0CC;
+}
+
+/* footer section */
+footer {
+    text-align: center;
+    font-size: 1rem;
+    padding: 2%;
+    margin: 0;
+}
+
+/* Color Theme Swatches in Hex */
+.The-Castle-Hotel-1-hex {
+    color: #7E7880;
+}
+
+.The-Castle-Hotel-2-hex {
+    color: #E8A3FF;
+}
+
+.The-Castle-Hotel-3-hex {
+    color: #FBEFFF;
+}
+
+.The-Castle-Hotel-4-hex {
+    color: #745280;
+}
+
+.The-Castle-Hotel-5-hex {
+    color: #C9C0CC;
+}
